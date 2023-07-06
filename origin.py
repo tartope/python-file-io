@@ -26,3 +26,5 @@ with open("origin.txt", "r") as in_stream:
 print("Done!")
 print("origin.txt is closed?", in_stream.closed)
 print("origin_output.txt is closed?", out_stream.closed)
+
+# Comment
